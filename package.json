@@ -1,7 +1,7 @@
 {
-  "name": "grunt-extjs-dependencies",
+  "name": "grunt-extjs-dependencies-wombleton",
   "description": "Uses static analysis to figure out in what order to load your ExtJs app files.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/cpak/grunt-extjs-dependencies",
   "author": {
     "name": "Christofer",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cpak/grunt-extjs-dependencies.git"
+    "url": "git://github.com/wombleton/grunt-extjs-dependencies.git"
   },
   "bugs": {
-    "url": "https://github.com/cpak/grunt-extjs-dependencies/issues"
+    "url": "https://github.com/wombleton/grunt-extjs-dependencies/issues"
   },
   "licenses": [
     {
